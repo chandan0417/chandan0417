@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...==>MERN Stack development
 - 💞️ I’m looking to collaborate on ...==> Database management system using MYSQL
 - 📫 How to reach me ... ==>mail me @ chandan0417bs@gmail.com or LinkedIn profile is https://www.linkedin.com/in/chandan-b-s-106402246/
-- 😄 Pronouns: ...==>He/Him
+
 
 
 <!---
